@@ -3,6 +3,11 @@ HAN Tianyang 1155091993
 JI Xiao 1155062135
 LIU Xuesong 1155091985
 
+Introduction
+The goal of this project is to implement a system for a ridesharing startup company for managing data relevant to
+ridesharing, e.g. drivers, passengers, vehicles, orders and trips. The system should provide an interactive
+interface to system administrators, passengers, and drivers.
+
 Instruction
 
 How to compile: 
